@@ -77,7 +77,7 @@
       "id": 1,
       "category": "Mod Bussid",
       "title": "Kumpulan truk fuso bagian 1",
-      "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
+      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso1.html",
       "video": ""
     },
@@ -85,7 +85,7 @@
       "id": 2,
       "category": "Mod Bussid",
       "title": "Kumpulan truk fuso bagian 2",
-      "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
+      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso2.html",
       "video": ""
     },
@@ -93,18 +93,10 @@
       "id": 3,
       "category": "Mod Bussid",
       "title": "Kumpulan truk fuso bagian 3",
-      "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
+      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
       "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso3.html",
       "video": ""
-    },
-{
-      "id": 4,
-      "category": "Mod Bussid",
-      "title": "Kumpulan truk fuso bagian 4",
-      "image": "https://raw.githubusercontent.com/salma1241/liverystjdraka.json/main/stjdraka.png",
-      "content": "https://htmlpreview.github.io/?https://github.com/majjalan111/trukfuso/edit/main/trukfuso4.html",
-      "video": ""
-    }	  
+    }  
 		
   ]
 }
