@@ -23,8 +23,8 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "google_ad_manager",
-      "backup_ad": "applovin_max",
+      "main_ad": "applovin_max",
+      "backup_ad": "startapp",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
       "admob_native_unit_id": "",
